@@ -1,2 +1,2 @@
-# Looted_Sector
+# Orky Sector (Formally Looted_Sector）
 Starsector Mod
