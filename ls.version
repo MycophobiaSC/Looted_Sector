@@ -1,11 +1,12 @@
 {
     "masterVersionFile":"https://github.com/MycophobiaSC/Looted_Sector/blob/main/ls.version",
-    "modName":"Hazard Mining Incorporated",
-    "modThreadId":13236,
+    "modName":"Orky Sector",
+    "modThreadId":29956,
     "modVersion":
     {
         "major":0,
-        "minor":4,
-        "patch":0a,
+        "minor":5,
+        "patch":3,
     },
 }
+
