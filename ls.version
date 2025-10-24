@@ -1,12 +1,14 @@
 {
-    "masterVersionFile":"https://github.com/MycophobiaSC/Looted_Sector/blob/main/ls.version",
+    "masterVersionFile":"https://raw.githubusercontent.com/MycophobiaSC/Looted_Sector/refs/heads/main/ls.version",
     "modName":"Orky Sector",
     "modThreadId":29956,
+	"directDownloadURL": "https://github.com/MycophobiaSC/Looted_Sector/releases/download/v0.61/Orky.Sector.-.En.v0.61.zip",
     "modVersion":
     {
         "major":0,
-        "minor":5,
-        "patch":3,
+        "minor":6,
+        "patch":1,
     },
 }
+
 
